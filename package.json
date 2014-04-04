@@ -1,6 +1,6 @@
 {
   "name": "win-data",
-  "version": "0.0.1-1",
+  "version": "0.0.1-2",
   "description": "WIN Module for fetching data. Temporarily not that.",
   "main": "lib/win-data.js",
   "dependencies" : {
