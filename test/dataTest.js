@@ -39,7 +39,7 @@ describe('Testing win-data for: ', function(){
 
     	var exampleJSON = 
 		{
-			"win-query" : windata,
+			"win-data" : windata,
 			"test" : emptyModule
 		};
 		var configurations = 
