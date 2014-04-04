@@ -1,0 +1,17 @@
+{
+  "name": "win-data",
+  "version": "0.0.1",
+  "description": "WIN Module for fetching data. Temporarily not that.",
+  "main": "lib/win-data.js",
+  "dependencies" : {
+  	"superagent" :"*"
+  },
+  "devDependencies" : {
+  	"win-utils" : "*",
+  	"win-backbone" : "*",
+  	"mocha" : "*",
+  	"should" : "*",
+  	"colors" : "*",
+  	"q" : "*"
+  }
+}
