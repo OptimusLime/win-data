@@ -1,15 +1,15 @@
 {
   "name": "win-data",
-  "version": "0.0.1-2",
+  "version": "0.0.1-3",
   "description": "WIN Module for fetching data. Temporarily not that.",
   "scripts": [
     "lib/win-data.js"
   ],
   "main": "lib/win-data.js",
   "dependencies" : {
-  	"visionmedia/superagent" :"*"
+  	"visionmedia/superagent" :"master"
   },
   "development" : {
-  	"optimuslime/win-backbone" : "*"
+  	"optimuslime/win-backbone" : "master"
   }
 }
